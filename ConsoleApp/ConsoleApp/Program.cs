@@ -12,6 +12,7 @@ namespace ConsoleApp
         {
             Console.WriteLine("This is edited from GitHub.com today");
             Console.WriteLine("Feature 1 was added today");
+            Console.WriteLine("Feature 2 was added today");
             Console.WriteLine("Feature 3 was added today");
         }
     }
