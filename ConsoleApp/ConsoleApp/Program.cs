@@ -10,7 +10,8 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is first commit");
+            Console.WriteLine("This is 2nd commit");
+            
         }
     }
 }
