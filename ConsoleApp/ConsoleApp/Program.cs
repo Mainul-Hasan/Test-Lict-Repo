@@ -11,7 +11,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("This is edited from GitHub.com today");
-            
+            Console.WriteLine("Feature 1 was added today");
         }
     }
 }
