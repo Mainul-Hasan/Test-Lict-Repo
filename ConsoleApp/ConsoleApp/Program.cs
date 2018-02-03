@@ -10,7 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is 2nd commit");
+            Console.WriteLine("This is edited from GitHub.com");
             
         }
     }
